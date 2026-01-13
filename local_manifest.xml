@@ -9,6 +9,4 @@
         <project path="vendor/xiaomi/sweet2" name="Lafactorial/android_vendor_xiaomi_sweet2" remote="rem" revision="qpr1" clone-depth="1" />
         <project path="vendor/xiaomi/sm6150-common" name="Lafactorial/android_vendor_xiaomi_sm6150-common" remote="rem" revision="lineage-23.0" clone-depth="1" />
         <project path="kernel/xiaomi/sm6150" name="Lafactorial/kernel_xiaomi_sm6150" remote="rem" revision="bp3a" clone-depth="1" />
-        <project path="device/oneplus/dolby" name="aosp-playground/android_device_oneplus_dolby" remote="rem" revision="sixteen-qpr1" clone-depth="1" />
-        <project path="vendor/oneplus/dolby" name="aosp-playground/proprietary_vendor_oneplus_dolby" remote="rem" revision="sixteen-qpr1" clone-depth="1" />
 </manifest>
