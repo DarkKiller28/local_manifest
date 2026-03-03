@@ -11,4 +11,5 @@
         <project path="vendor/xiaomi/sm6150-common" name="Lafactorial/android_vendor_xiaomi_sm6150-common" remote="rem" revision="lineage-23.2" clone-depth="1" />
         <project path="kernel/xiaomi/sm6150" name="DarkKiller28/android_kernel_xiaomi_sm6150" remote="rem" revision="16.0-sweet2" clone-depth="1" />
         <project path="kernel/xiaomi/sm6150" name="DarkKiller28/android_kernel_xiaomi_sm6150" remote="rem" revision="16.0-sweet2" clone-depth="1" sync-c="true" />
+         git clone --depth=1 --recurse-submodules
 </manifest>
